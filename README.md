@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/hritikmohapatra" target="blank"><img src="https://img.shields.io/twitter/follow/hritikmohapatra?logo=twitter&style=for-the-badge" alt="hritikmohapatra" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hritikmohapatra](https://github.com/hritikmohapatra)
 
-- 💬 Ask me about **Artificial Intelligence and Machine Learning**
+- 💬 Ask me about **Data Analysis, Data Science, AI & ML**
 
 - 📫 How to reach me **hritikmohapatra2000@gmail.com**
 
